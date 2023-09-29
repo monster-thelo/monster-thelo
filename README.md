@@ -16,7 +16,7 @@ I'm open to collaborating on beginner-level Python and MySQL projects. Let's con
 
 ### 📬 Contact
 - LinkedIn: [Julius Kwame Ametsitsi](https://www.linkedin.com/in/julius-kwame-ametsitsi/)
-- Whatsapp: [+233208135690] *(Feel free to reach out!)*
+  *(Feel free to reach out!)*
 
 Looking forward to connecting with fellow developers and exploring the endless possibilities of coding! 👨‍💻✨
 <!---
