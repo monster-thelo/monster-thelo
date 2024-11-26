@@ -1,25 +1,14 @@
-## About Me
 
-👋 Hello there! I'm Julius Kwame Ametsitsi, an enthusiastic programmer with a passion for fintech, AI, and web development. I'm currently diving into the world of C#, SQL, and Python, and actively expanding my skill set by learning PHP and Dart.
+# About Me
 
-### 🔧 Tech Stack
-- **Languages:** C#, Python, SQL, PHP, Dart
-- **Interests:** Fintech, AI, Web Development
-- **Experience:** Novice in C#, Intermediate in SQL and Python
+Hello! 👋 I’m  Julius Kwame Ametsitsi , a Computer Science graduate diving into the world of web development. Right now, I'm focusing on learning the MERN stack (MongoDB, Express.js, React, Node.js) to build full-stack applications and expand my coding skills.
 
-### 🌐 Involvement
-- **Model UN:** Proud member of Life-Link Model UN
-- **Learning Journey:** Actively exploring the realms of Python and MySQL
-- **Google Crowdsource Learning Community:** A member of the KNUST Google Crowdsource Learning Community. 
-### 🤝 Collaboration
-I'm open to collaborating on beginner-level Python and MySQL projects. Let's connect and create something awesome together!
+As an AI enthusiast , I am fascinated by the potential of Artificial Intelligence and Machine Learning , especially in their applications within warfare , defense , and foreign policy . My long-term goal is to further my education in AI and explore its transformative impact on global security and technology.
 
-### 📬 Contact
-- LinkedIn: [Julius Kwame Ametsitsi](https://www.linkedin.com/in/julius-kwame-ametsitsi/)
-  *(Feel free to reach out!)*
+Additionally, I have a strong interest in  financial systems and international relations , and I hope to leverage technology to address some of the world’s most pressing challenges.
 
-Looking forward to connecting with fellow developers and exploring the endless possibilities of coding! 👨‍💻✨
-<!---
-monster-thelo/monster-thelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+📬 Contact
+- LinkedIn: [Julius Kwame Ametsitsi](https://www.linkedin.com/in/julius-kwame-ametsitsi/)  
+  (Feel free to reach out! I’d love to connect.)
+
